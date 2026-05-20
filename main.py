@@ -1,5 +1,6 @@
 # Simple rule-based chatbot using dictionary responses
 
+# Predefined replies
 chatbot = {
     "hello": "Hi!",
     "how are you": "I'm fine, thanks!",
